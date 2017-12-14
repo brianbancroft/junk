@@ -4,14 +4,14 @@
 
 ### The Agenda:
 
-- Two types of Lessons
-- High-Level Principles
-- The Anatomy of a Knowledge Lesson
-- The tools
+- Two types of Lessons |
+- High-Level Principles |
+- The Anatomy of a Knowledge Lesson |
+- The tools |
 
 ---
 
-### Two types of lessons
+### Two Types of Lessons
 
 1. Knowledge
 
@@ -29,14 +29,14 @@
 
 ---
 
-These are the tools not to end up like that:
+Guides to a great lesson:
 
-- Interest
-- Comprehension
-- Emphasis
-- Participation
-- Accomplishment
-- Confirmation
+- Interest |
+- Comprehension |
+- Emphasis |
+- Participation |
+- Accomplishment |
+- Confirmation |
 
 ---
 #### Interest
@@ -47,11 +47,11 @@ Rememeber, in order for your lesson to succeed, you must own the content, and it
 #### Interest
 
 You can maintain interest with
-- Motivtion
-- Enthusiasm
-- Variety
-- Realism
-- Participation
+- Motivtion |
+- Enthusiasm |
+- Variety |
+- Realism |
+- Participation |
 
 ---
 
@@ -64,10 +64,10 @@ Understand the material, and understand the audience
 #### Comprehension
 
 Remember:
-- Research the content
-- Review
-- Ask questions
-- Observe
+- Research the content |
+- Review |
+- Ask questions |
+- Observe |
 
 ---
 
@@ -80,10 +80,10 @@ Hammer the major points. Ensure the audience knows the bare minimum that in orde
 #### Emphasis
 
 To help in emphasis, you can use the following tools:
-- Oral Emphasis
-- Video. Sounds
-- Repetition
-- Handouts
+- Oral Emphasis |
+- Video. Sounds |
+- Repetition |
+- Handouts |
 
 ---
 
@@ -102,11 +102,9 @@ Ensure your lesson has a point, something that the audience can take from it, an
 
 #### Accomplishment
 
-But sometimes, you will have to be the bad person in the room.
-
-- Ensure they know how they are doing
-- Correct faults. Seldom pass a fault.
-- Short quizzes are fantastic in instilling a sense of accomplishment for keeners, and work as a good early-warning system for longer courses
+- Ensure they know how they are doing, |
+- Correct faults. Seldom pass a fault; and, |
+- Short quizzes. |
 
 ---
 
